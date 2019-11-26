@@ -1,0 +1,2 @@
+Hello this is Yasmine 
+I am trying to creat and configure my first git
